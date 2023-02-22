@@ -1,0 +1,24 @@
+.contentor{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    cursor: pointer;
+
+    align-items: center;
+
+    justify-content: center;
+}
+
+.img1{
+    margin-left: 100px;
+    flex: 30%;
+}
+
+.img2{
+    flex: 30%;
+
+}
+
+
+

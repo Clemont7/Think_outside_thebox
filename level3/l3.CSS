@@ -1,0 +1,22 @@
+#divCorpo{
+    background: black;
+    width: 100%;
+    height: 500px;
+    
+    
+
+}
+
+.gato {
+    text-align: center;
+    width: 200px; 
+    margin-left:50%; 
+    margin-top:20%;
+}
+
+.divProximo{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+   margin-top: -40px;
+}
